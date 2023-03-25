@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: aleksey
+Build-Jdk: Oracle OpenJDK version 17
+Implementation-Title: natlexquest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ru.chuev.natlexquest
+Main-Class: ${start-class}
+
